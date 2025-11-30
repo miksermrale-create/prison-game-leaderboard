@@ -17,14 +17,6 @@
       "lastUpdated": "2025-11-30T21:49:31.395Z"
     },
     {
-      "userId": "beni_9wc9oqiyd",
-      "playerName": "Beni",
-      "prestige": 0,
-      "money": 1051872,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T21:48:45.294Z"
-    },
-    {
       "userId": "heyitsness_5n7oj147z",
       "playerName": "heyitsness",
       "prestige": 0,
@@ -47,6 +39,14 @@
       "money": 370476,
       "shards": 0,
       "lastUpdated": "2025-11-30T21:49:28.685Z"
+    },
+    {
+      "userId": "beni_9wc9oqiyd",
+      "playerName": "Beni",
+      "prestige": 0,
+      "money": 352925,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T21:49:38.331Z"
     },
     {
       "userId": "thezdenko_6gzxhkbft",
@@ -121,5 +121,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T21:49:37.086Z"
+  "lastUpdated": "2025-11-30T21:49:38.331Z"
 }
