@@ -49,6 +49,14 @@
       "lastUpdated": "2025-11-30T21:33:47.623Z"
     },
     {
+      "userId": "lunocchi_qt32qmlkb",
+      "playerName": "Lunocchi",
+      "prestige": 0,
+      "money": 38565,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T21:33:57.315Z"
+    },
+    {
       "userId": "thezdenko_6gzxhkbft",
       "playerName": "TheZdenko",
       "prestige": 0,
@@ -63,14 +71,6 @@
       "money": 30441,
       "shards": 0,
       "lastUpdated": "2025-11-30T21:33:48.821Z"
-    },
-    {
-      "userId": "lunocchi_qt32qmlkb",
-      "playerName": "Lunocchi",
-      "prestige": 0,
-      "money": 16725,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T21:33:46.201Z"
     },
     {
       "userId": "eggsandgrep_zdyjfpdcg",
@@ -113,5 +113,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T21:33:55.254Z"
+  "lastUpdated": "2025-11-30T21:33:57.315Z"
 }
