@@ -73,20 +73,20 @@
       "lastUpdated": "2025-11-30T22:05:25.379Z"
     },
     {
+      "userId": "tuna_vpqh9qnum",
+      "playerName": "Tuna",
+      "prestige": 0,
+      "money": 85724,
+      "shards": 2,
+      "lastUpdated": "2025-11-30T22:05:37.467Z"
+    },
+    {
       "userId": "roks_k0xxghkmp",
       "playerName": "Roks",
       "prestige": 0,
       "money": 54980,
       "shards": 0,
       "lastUpdated": "2025-11-30T21:48:32.169Z"
-    },
-    {
-      "userId": "tuna_vpqh9qnum",
-      "playerName": "Tuna",
-      "prestige": 0,
-      "money": 2840,
-      "shards": 1,
-      "lastUpdated": "2025-11-30T22:05:27.407Z"
     },
     {
       "userId": "eggsandgrep_zdyjfpdcg",
@@ -121,5 +121,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T22:05:35.844Z"
+  "lastUpdated": "2025-11-30T22:05:37.467Z"
 }
