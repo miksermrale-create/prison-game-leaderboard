@@ -1,21 +1,4 @@
 {
-  "players": [
-    {
-      "userId": "thezdenko_0rb9l90gd",
-      "playerName": "TheZdenko",
-      "prestige": 0,
-      "money": 232,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T17:23:46.390Z"
-    },
-    {
-      "userId": "change_lo6lt0xm9",
-      "playerName": "Change",
-      "prestige": 0,
-      "money": 100,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T17:16:26.037Z"
-    }
-  ],
-  "lastUpdated": "2025-11-30T17:23:46.390Z"
+  "players": [],
+  "lastUpdated": "2024-01-01T00:00:00.000Z"
 }
