@@ -1,4 +1,13 @@
 {
-  "players": [],
-  "lastUpdated": "2024-01-01T00:00:00.000Z"
+  "players": [
+    {
+      "userId": "thezdenko_vwlff9b3s",
+      "playerName": "TheZdenko",
+      "prestige": 0,
+      "money": 12,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T17:44:10.564Z"
+    }
+  ],
+  "lastUpdated": "2025-11-30T17:44:10.564Z"
 }
