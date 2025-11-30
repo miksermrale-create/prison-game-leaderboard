@@ -89,6 +89,14 @@
       "lastUpdated": "2025-11-30T22:51:51.111Z"
     },
     {
+      "userId": "milkdud_1cdbkgy6o",
+      "playerName": "Milkdud",
+      "prestige": 0,
+      "money": 11546,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T23:09:56.883Z"
+    },
+    {
       "userId": "tortois_rstreqe0x",
       "playerName": "Tortois",
       "prestige": 0,
@@ -111,14 +119,6 @@
       "money": 982,
       "shards": 0,
       "lastUpdated": "2025-11-30T23:09:26.905Z"
-    },
-    {
-      "userId": "milkdud_1cdbkgy6o",
-      "playerName": "Milkdud",
-      "prestige": 0,
-      "money": 745,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T23:09:44.104Z"
     },
     {
       "userId": "lunocchi_epq89jp8g",
@@ -153,5 +153,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T23:09:56.528Z"
+  "lastUpdated": "2025-11-30T23:09:56.883Z"
 }
