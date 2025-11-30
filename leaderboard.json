@@ -17,20 +17,20 @@
       "lastUpdated": "2025-11-30T21:31:25.781Z"
     },
     {
+      "userId": "bunny_wcm8efuoj",
+      "playerName": "bunny",
+      "prestige": 0,
+      "money": 142471,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T21:31:33.639Z"
+    },
+    {
       "userId": "drew_pf319fbay",
       "playerName": "Drew",
       "prestige": 0,
       "money": 83967,
       "shards": 0,
       "lastUpdated": "2025-11-30T21:31:26.628Z"
-    },
-    {
-      "userId": "bunny_wcm8efuoj",
-      "playerName": "bunny",
-      "prestige": 0,
-      "money": 40251,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T21:31:23.413Z"
     },
     {
       "userId": "tuna_vpqh9qnum",
@@ -105,5 +105,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T21:31:31.727Z"
+  "lastUpdated": "2025-11-30T21:31:33.639Z"
 }
