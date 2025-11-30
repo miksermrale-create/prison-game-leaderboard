@@ -1,20 +1,20 @@
 {
   "players": [
     {
+      "userId": "eggsandgrep_zdyjfpdcg",
+      "playerName": "EggsAndGrep",
+      "prestige": 0,
+      "money": 214,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T20:49:45.308Z"
+    },
+    {
       "userId": "thezdenko_6gzxhkbft",
       "playerName": "TheZdenko",
       "prestige": 0,
       "money": 169,
       "shards": 0,
       "lastUpdated": "2025-11-30T20:49:37.264Z"
-    },
-    {
-      "userId": "eggsandgrep_zdyjfpdcg",
-      "playerName": "EggsAndGrep",
-      "prestige": 0,
-      "money": 145,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T20:49:35.375Z"
     },
     {
       "userId": "tuna_2des48f5s",
@@ -33,5 +33,5 @@
       "lastUpdated": "2025-11-30T20:49:34.565Z"
     }
   ],
-  "lastUpdated": "2025-11-30T20:49:37.264Z"
+  "lastUpdated": "2025-11-30T20:49:45.308Z"
 }
