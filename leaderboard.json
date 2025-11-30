@@ -1,29 +1,4 @@
 {
-  "players": [
-    {
-      "playerName": "TopMiner",
-      "prestige": 5,
-      "money": 5000000,
-      "shards": 1000,
-      "userId": "topminer_123",
-      "lastUpdated": "2024-01-15T10:00:00.000Z"
-    },
-    {
-      "playerName": "MineMaster", 
-      "prestige": 3,
-      "money": 2500000,
-      "shards": 500,
-      "userId": "minemaster_456",
-      "lastUpdated": "2024-01-15T09:00:00.000Z"
-    },
-    {
-      "playerName": "DiamondDigger",
-      "prestige": 2,
-      "money": 1000000,
-      "shards": 250,
-      "userId": "diamond_789",
-      "lastUpdated": "2024-01-15T08:00:00.000Z"
-    }
-  ],
-  "lastUpdated": "2024-01-15T10:00:00.000Z"
+  "players": [],
+  "lastUpdated": "2024-01-01T00:00:00.000Z"
 }
