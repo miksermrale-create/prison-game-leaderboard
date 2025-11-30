@@ -25,6 +25,14 @@
       "lastUpdated": "2025-11-30T20:49:37.264Z"
     },
     {
+      "userId": "tuna_vpqh9qnum",
+      "playerName": "Tuna",
+      "prestige": 0,
+      "money": 37,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T20:53:00.515Z"
+    },
+    {
       "userId": "tuna_2des48f5s",
       "playerName": "Tuna",
       "prestige": 0,
@@ -39,15 +47,7 @@
       "money": 0,
       "shards": 0,
       "lastUpdated": "2025-11-30T20:51:48.213Z"
-    },
-    {
-      "userId": "tuna_vpqh9qnum",
-      "playerName": "Tuna",
-      "prestige": 0,
-      "money": 0,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T20:52:50.389Z"
     }
   ],
-  "lastUpdated": "2025-11-30T20:52:59.152Z"
+  "lastUpdated": "2025-11-30T20:53:00.515Z"
 }
