@@ -89,6 +89,14 @@
       "lastUpdated": "2025-11-30T22:51:51.111Z"
     },
     {
+      "userId": "tortois_rstreqe0x",
+      "playerName": "Tortois",
+      "prestige": 0,
+      "money": 3359,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T22:59:03.238Z"
+    },
+    {
       "userId": "disin_xjq1fc0gz",
       "playerName": "Disin",
       "prestige": 0,
@@ -103,14 +111,6 @@
       "money": 898,
       "shards": 0,
       "lastUpdated": "2025-11-30T22:57:09.376Z"
-    },
-    {
-      "userId": "tortois_rstreqe0x",
-      "playerName": "Tortois",
-      "prestige": 0,
-      "money": 73,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T22:58:30.327Z"
     },
     {
       "userId": "lunocchi_epq89jp8g",
@@ -145,5 +145,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T22:58:58.181Z"
+  "lastUpdated": "2025-11-30T22:59:03.238Z"
 }
