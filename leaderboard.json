@@ -73,20 +73,20 @@
       "lastUpdated": "2025-11-30T21:34:19.637Z"
     },
     {
+      "userId": "beni_9wc9oqiyd",
+      "playerName": "Beni",
+      "prestige": 0,
+      "money": 3144,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T21:34:39.914Z"
+    },
+    {
       "userId": "eggsandgrep_zdyjfpdcg",
       "playerName": "EggsAndGrep",
       "prestige": 0,
       "money": 771,
       "shards": 0,
       "lastUpdated": "2025-11-30T20:59:57.431Z"
-    },
-    {
-      "userId": "beni_9wc9oqiyd",
-      "playerName": "Beni",
-      "prestige": 0,
-      "money": 742,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T21:34:26.804Z"
     },
     {
       "userId": "lunocchi_epq89jp8g",
@@ -113,5 +113,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T21:34:38.513Z"
+  "lastUpdated": "2025-11-30T21:34:39.914Z"
 }
