@@ -25,20 +25,20 @@
       "lastUpdated": "2025-11-30T20:49:45.308Z"
     },
     {
+      "userId": "llen_7a3j98ssb",
+      "playerName": "Llen",
+      "prestige": 0,
+      "money": 189,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T20:54:12.912Z"
+    },
+    {
       "userId": "thezdenko_6gzxhkbft",
       "playerName": "TheZdenko",
       "prestige": 0,
       "money": 169,
       "shards": 0,
       "lastUpdated": "2025-11-30T20:49:37.264Z"
-    },
-    {
-      "userId": "llen_7a3j98ssb",
-      "playerName": "Llen",
-      "prestige": 0,
-      "money": 97,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T20:53:44.426Z"
     },
     {
       "userId": "tuna_2des48f5s",
@@ -57,5 +57,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T20:54:05.197Z"
+  "lastUpdated": "2025-11-30T20:54:12.912Z"
 }
