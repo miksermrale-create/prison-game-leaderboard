@@ -33,6 +33,14 @@
       "lastUpdated": "2025-11-30T21:26:00.902Z"
     },
     {
+      "userId": "heyitsness_5n7oj147z",
+      "playerName": "heyitsness",
+      "prestige": 0,
+      "money": 42439,
+      "shards": 0,
+      "lastUpdated": "2025-11-30T21:26:06.685Z"
+    },
+    {
       "userId": "thezdenko_6gzxhkbft",
       "playerName": "TheZdenko",
       "prestige": 0,
@@ -47,14 +55,6 @@
       "money": 18860,
       "shards": 0,
       "lastUpdated": "2025-11-30T21:23:30.488Z"
-    },
-    {
-      "userId": "heyitsness_5n7oj147z",
-      "playerName": "heyitsness",
-      "prestige": 0,
-      "money": 10278,
-      "shards": 0,
-      "lastUpdated": "2025-11-30T21:25:56.307Z"
     },
     {
       "userId": "drew_pf319fbay",
@@ -105,5 +105,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-11-30T21:26:06.073Z"
+  "lastUpdated": "2025-11-30T21:26:06.685Z"
 }
