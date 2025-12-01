@@ -9,6 +9,14 @@
       "lastUpdated": "2025-12-01T00:31:05.434Z"
     },
     {
+      "userId": "lunocchi_qt32qmlkb",
+      "playerName": "Lunocchi",
+      "prestige": 2,
+      "money": 17628361,
+      "shards": 0,
+      "lastUpdated": "2025-12-01T00:31:06.482Z"
+    },
+    {
       "userId": "heyitsness_5n7oj147z",
       "playerName": "heyitsness",
       "prestige": 2,
@@ -23,14 +31,6 @@
       "money": 36807352,
       "shards": 453,
       "lastUpdated": "2025-11-30T23:33:41.530Z"
-    },
-    {
-      "userId": "lunocchi_qt32qmlkb",
-      "playerName": "Lunocchi",
-      "prestige": 1,
-      "money": 35272841,
-      "shards": 501,
-      "lastUpdated": "2025-12-01T00:30:52.785Z"
     },
     {
       "userId": "beni_9wc9oqiyd",
@@ -153,5 +153,5 @@
       "lastUpdated": "2025-11-30T20:51:48.213Z"
     }
   ],
-  "lastUpdated": "2025-12-01T00:31:05.434Z"
+  "lastUpdated": "2025-12-01T00:31:06.482Z"
 }
